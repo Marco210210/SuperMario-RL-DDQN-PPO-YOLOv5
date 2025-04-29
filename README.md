@@ -74,6 +74,12 @@ YOLOv5 achieved **94.2% precision** and **100% recall**, but the integrated agen
 
 ---
 
+## 🎮 Gameplay Demo
+
+![Demo Mario](media/Demo_Mario.gif)
+
+---
+
 ## 🎥 Demo Video
 
 Watch the agent win!  
