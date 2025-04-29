@@ -76,8 +76,6 @@ YOLOv5 achieved **94.2% precision** and **100% recall**, but the integrated agen
 
 ## 🎮 Gameplay Demo
 
-![Demo Mario](media/Demo_Mario.gif)
-
 <p align="center">
     <img src="https://github.com/Marco210210/SuperMario-RL-DDQN-PPO-YOLOv5/blob/main/media/Demo_Mario.gif" width="400">
 </p>
