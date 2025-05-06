@@ -102,9 +102,9 @@ Or check the full episode:
 
 ## 👥 Authors
 
-- Giovanni Arcangeli  
-- Vittorio Ciancio  
-- Marco Di Maio  
+- Arcangeli Giovanni 
+- [Ciancio Vittorio](https://github.com/VittorioCiancio)  
+- Di Maio Marco
 
 ---
 
